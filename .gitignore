@@ -5,3 +5,4 @@ target/
 .env
 application-local.properties
 .DS_Store
+mission-control-frontend/
